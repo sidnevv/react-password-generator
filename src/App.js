@@ -50,7 +50,7 @@ function App() {
 
         for (let i = 0; i < passwordLength; i++) {
             const characterIndex = Math.floor(Math.random() * charactersListLength)
-            password = password + charactersList.charAt(characterIndex)
+            password = password + charactersList.substring(characterIndex, characterIndex + 1)
         }
         return password
     }
