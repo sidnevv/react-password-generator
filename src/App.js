@@ -49,7 +49,7 @@ function App() {
         const charactersListLength = charactersList.length
 
         for (let i = 0; i < passwordLength; i++) {
-            const characterIndex = Math.round(Math.random() * charactersListLength)
+            const characterIndex = Math.floor(Math.random() * charactersListLength)
             password = password + charactersList.charAt(characterIndex)
         }
         return password
