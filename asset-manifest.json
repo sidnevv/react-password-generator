@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sidnevv.github.io/react-password-generator/static/css/main.26ea8dd8.css",
+    "main.js": "/sidnevv.github.io/react-password-generator/static/js/main.056eda3c.js",
+    "index.html": "/sidnevv.github.io/react-password-generator/index.html",
+    "main.26ea8dd8.css.map": "/sidnevv.github.io/react-password-generator/static/css/main.26ea8dd8.css.map",
+    "main.056eda3c.js.map": "/sidnevv.github.io/react-password-generator/static/js/main.056eda3c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26ea8dd8.css",
+    "static/js/main.056eda3c.js"
+  ]
+}
